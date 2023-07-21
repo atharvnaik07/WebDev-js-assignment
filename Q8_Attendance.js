@@ -8,7 +8,7 @@
 
 let held = prompt("Enter the number of held:");
 held = Number.parseInt(held);
-//att= attenbded
+//att= attendance
 let att = prompt("Enter the number of attended:");
 att = Number.parseInt(att);
 let total = att / held * 100;
